@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "make an html file with links",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaaybe/portfolio-generator.git"
+  },
+  "keywords": [
+    "portfolio",
+    "student"
+  ],
+  "author": "JB Blot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaaybe/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/jaaybe/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  }
+}
